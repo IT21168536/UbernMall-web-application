@@ -58,8 +58,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
+
+
+![Screenshot 2024-06-23 134907](https://github.com/IT21168536/UbernMall-web-application/assets/99183326/26a7ddf7-4cff-428f-a1be-4a88da85aea7)
+
+
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Sc![Screenshot 2024-06-23 134413](https://github.com/IT21168536/UbernMall-web-application/assets/99183326/288cf5e6-f2be-4c10-abc4-3de410a05b28)
+reenshot 2024-06-23 134503](https://github.com/IT21168536/UbernMall-web-application/assets/99183326/4faaf64a-b4e2-4ef5-b071-4c580649c99b)
 
-### Deployment**
+![Screenshot 2024-06-23 134610](https://github.com/IT21168536/UbernMall-web-application/assets/99183326/ce01fe15-3497-4f2c-99d7-703fbeaa45b5)
+![Screenshot 2024-06-23 135039](https://github.com/IT21168536/UbernMall-web-application/assets/99183326/cb8640f1-bf8e-4b12-8491-094a0f8a81ac)
+![Screenshot 2024-06-23 135003](https://github.com/IT21168536/UbernMall-web-application/assets/99183326/018cfe19-35b9-48dd-9d6c-b42642be0c4a)
+![Screenshot 2024-06-23 134643](https://github.com/IT21168536/UbernMall-web-application/assets/99183326/33141c1a-e319-478c-96b2-42f50fbaa90d)
